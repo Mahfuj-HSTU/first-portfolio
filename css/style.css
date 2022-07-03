@@ -1,0 +1,30 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.top-banner {
+  background-image: url(../images/top-banner.png);
+  background-repeat: no-repeat;
+  display: flex;
+}
+.upper {
+  width: 50%;
+  padding-left: 5%;
+}
+.upper h1 {
+  font-size: 40px;
+}
+.upper .name {
+  color: #e6b802e9;
+  font-size: 50px;
+}
+
+.link-btn {
+  text-transform: uppercase;
+  text-decoration: none;
+  background-image: linear-gradient(to right, #ec5151, #e19b38);
+  color: #ffffff;
+  font-weight: 800;
+  padding: 10px 40px;
+}
